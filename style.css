@@ -1,0 +1,28 @@
+селектор {
+  свойства: значение;
+  свойства: значение;
+  свойства: значение;
+}
+
+body {
+  background-color:	lemonchiffon;
+}
+
+.text {
+  font-style: italic;
+}
+
+.name {
+  color: darkred;
+  text-align: center;
+}
+
+.friend {
+  text-align: center;
+  text-size: 50px;
+}
+
+.number {
+  text-align: center;
+}
+/* пока что не получилось с римскими цифрами */
